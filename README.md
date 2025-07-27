@@ -58,7 +58,7 @@ It handles:
    ```
 3. Follow the prompts!
 ### b. by Executable
-1. Go to [Releases](/releases)
+1. Go to [Releases](https://github.com/Svznify/Pakify/releases/latest)
 2. Download `Pakify.exe`
 3. Run it
 ---
